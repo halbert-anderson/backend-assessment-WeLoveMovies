@@ -6,9 +6,9 @@ const criticsRouter = require("./critics/critics.router");
 const reviewsRouter = require("./reviews/reviews.router");
 const theatersRouter = require("./theaters/theaters.router");
 const moviesTheatersRouter = require("./movies-theaters/movies-theaters.router");
+const cors = require("cors");
 
-
-// app.use(cors());
+app.use(cors());
 app.use(express.json());
 
 
