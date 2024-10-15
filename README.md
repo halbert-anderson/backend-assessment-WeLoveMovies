@@ -1,6 +1,6 @@
 # WeLoveMovies API
 ## Overview
-Welcome to the WeLoveMovies backend API! This API provides movie-related data such as movies, theaters, critics, and reviews. You’ve been hired as a backend developer to set up the database and build out the routes necessary for accessing this data. The API is built using Node.js, Express, Knex.js, and PostgreSQL.
+Welcome to the WeLoveMovies backend API! This API provides movie-related data such as movies, theaters, critics, and reviews. In this project I set up the database and build out the routes necessary for accessing the data. The API is built using Node.js, Express, Knex.js, and PostgreSQL.
 
 ## Technologies Used
 
