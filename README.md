@@ -24,6 +24,7 @@ Welcome to the WeLoveMovies backend API! This API provides movie-related data su
   - **Dotenv:** Module used to load environment variables from a .env file into process.env.
 
 ## Table of Contents
+- [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Project Structure](#project-structure)
 - [API Routes](#api-routes)
