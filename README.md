@@ -27,7 +27,7 @@ As proof of concept, this backend API can be connected to a frontend app at [thi
 
 ## Live Application
 
-You can access a live backend api [here](https://backend-assessment-welovemovies.onrender.com)
+You can access a live backend api [here](https://backend-assessment-welovemovies.onrender.com).</br>
 You can access a live frontend application that is utilizing the backend API [here](https://we-love-movies-front-end-bgi9.onrender.com).
 
 ## Table of Contents
