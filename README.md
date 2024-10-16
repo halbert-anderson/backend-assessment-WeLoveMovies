@@ -80,34 +80,34 @@ npm start
 ```bash
 WeLoveMovies/
 ├── src/
-│   ├── critics/
-│   │   ├── critics.controller.js
-│   │   ├── critics.router.js
-│   │   └── critics.service.js
-│   ├── movies/
-│   │   ├── movies.controller.js
-│   │   ├── movies.router.js
-│   │   └── movies.service.js
-│   ├── reviews/
-│   │   ├── reviews.controller.js
-│   │   ├── reviews.router.js
-│   │   └── reviews.service.js
-│   ├── theaters/
-│   │   ├── theaters.controller.js
-│   │   ├── theaters.router.js
-│   │   └── theaters.service.js
-│   ├── movies_theaters/
-│   │   ├── movies_theaters.controller.js
-│   │   ├── movies_theaters.router.js
-│   │   └── movies_theaters.service.js
-│   ├── errors/
-│   ├── utils/
-│   ├── db/
-│   │   ├── migrations/
-│   │   ├── seeds/
-│   │   └── connection.js
-│   └── app.js
-└── server.js
+    ├── critics/
+    │   ├── critics.controller.js
+    │   ├── critics.router.js
+    │   └── critics.service.js
+    ├── movies/
+    │   ├── movies.controller.js
+    │   ├── movies.router.js
+    │   └── movies.service.js
+    ├── reviews/
+    │   ├── reviews.controller.js
+    │   ├── reviews.router.js
+    │   └── reviews.service.js
+    ├── theaters/
+    │   ├── theaters.controller.js
+    │   ├── theaters.router.js
+    │   └── theaters.service.js
+    ├── movies_theaters/
+    │   ├── movies_theaters.controller.js
+    │   ├── movies_theaters.router.js
+    │   └── movies_theaters.service.js
+    ├── errors/
+    ├── utils/
+    ├── db/
+    │   ├── migrations/
+    │   ├── seeds/
+    │   └── connection.js
+    ├── app.js
+    └── server.js
 ```
   - **app.js:** Main application file where Express, routers, and middlewares are set up.
   - **server.js:** Entry point for starting the application.
