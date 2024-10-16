@@ -25,8 +25,13 @@ As proof of concept, this backend API can be connected to a frontend app at [thi
   - **Render:** Cloud platform for deploying the backend server.
   - **Dotenv:** Module used to load environment variables from a .env file into process.env.
 
+## Live Application
+
+You can access a live frontend application that is utilizing the backend API [here](https://we-love-movies-front-end-bgi9.onrender.com).
+
 ## Table of Contents
 - [Technologies Used](#technologies-used)
+- [Live Application](#live-application)
 - [Installation](#installation)
 - [Project Structure](#project-structure)
 - [API Routes](#api-routes)
